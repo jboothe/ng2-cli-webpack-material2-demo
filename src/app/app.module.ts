@@ -7,8 +7,10 @@ import { MdCoreModule } from '@angular2-material/core'
 import { MdButtonModule } from '@angular2-material/button';
 import { MdCardModule } from '@angular2-material/card';
 import { MdRadioModule } from '@angular2-material/radio';
-import { MdCheckboxModule } from '@angular2-material/checkbox';
+import { MdCheckboxModule } from '@angular2-material/checkbox'
+import { MdTooltipModule } from '@angular2-material/tooltip';
 import { MdSliderModule } from '@angular2-material/slider';
+import { MdIconModule } from '@angular2-material/icon';
 import 'hammerjs';
 
 @NgModule({
@@ -19,7 +21,8 @@ import 'hammerjs';
     BrowserModule,
     CommonModule,
     FormsModule,
-    MdCoreModule, MdCardModule, MdButtonModule, MdRadioModule, MdCheckboxModule, MdSliderModule
+    MdCoreModule, MdCardModule, MdButtonModule, MdRadioModule,
+    MdCheckboxModule, MdTooltipModule, MdSliderModule, MdIconModule
   ],
   providers: [],
   entryComponents: [AppComponent],
