@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['app.component.css']
 })
 export class AppComponent {
-  title = 'Material 2 Webpack CLI App!';
+  title = 'CLI Webpack Material 2 Demo!';
 }
