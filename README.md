@@ -1,6 +1,8 @@
 # Angular CLI Webpack
 ## Material 2 Demo
 
+This is a demo project supports the blob post [Angular-CLI meets Webpack](https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89#.8rzubri0k) 
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.2.
 
 ## Development server
