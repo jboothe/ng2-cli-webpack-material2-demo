@@ -1,10 +1,10 @@
-import { CliMtrl20822Page } from './app.po';
+import { SuperappPage } from './app.po';
 
-describe('cli-mtrl2-0822 App', function() {
-  let page: CliMtrl20822Page;
+describe('superapp App', function() {
+  let page: SuperappPage;
 
   beforeEach(() => {
-    page = new CliMtrl20822Page();
+    page = new SuperappPage();
   });
 
   it('should display message saying app works', () => {

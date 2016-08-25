@@ -3,7 +3,7 @@
 import { addProviders, async, inject } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
-describe('App: CliMtrl20822', () => {
+describe('App: Superapp', () => {
   beforeEach(() => {
     addProviders([AppComponent]);
   });

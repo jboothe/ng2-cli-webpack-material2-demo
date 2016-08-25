@@ -1,4 +1,6 @@
-export class CliMtrl20822Page {
+import { browser, element, by } from 'protractor/globals';
+
+export class SuperappPage {
   navigateTo() {
     return browser.get('/');
   }
